@@ -1,0 +1,5 @@
+<resources>
+    <color name="button_pressed_background">#69f0ae</color>
+    <color name="button_enabled_background">#64dd17</color>
+    <color name="button_disabled_background">#C0C0C0</color>
+</resources>
